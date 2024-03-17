@@ -1,20 +1,19 @@
-👋 Hi there fellow :octocat:':s:
-# Welcome to Jason Christian's GitHub Profile! 🎨
+# Hi there I"m Jason Christian welcome to my GitHub Profile! 🎨
 
 ## About Me
-I am Jason Christian, an aspiring artist venturing into the realms of graphic design and web development. Eager to learn and grow in the digital landscape!
+I am Jason Christian, an aspiring artist venturing into the realms of graphic design and web development. Eager to learn and grow in the reappidly advanceing and expanding digital landscape. 🌆
 
 ### Languages
-* Python ![Python](https://img.shields.io/badge/language-Python-blue)
-* JavaScript ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
-* HTML ![HTML](https://img.shields.io/badge/language-HTML-orange)
-* CSS ![CSS](https://img.shields.io/badge/language-CSS-green)
+* Python ![Python](https://img.shields.io/badge/language-Python-blue)  🐍
+* JavaScript ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow) ☕
+* HTML ![HTML](https://img.shields.io/badge/language-HTML-orange) 🈴
+* CSS ![CSS](https://img.shields.io/badge/language-CSS-green) ➕➕
 
 ### Tools
-* Visual Studio Code ![VSCode](https://img.shields.io/badge/tool-VSCode-lightgray)
-* Git ![Git](https://img.shields.io/badge/tool-Git-black)
-* Bash ![Bash](https://img.shields.io/badge/tool-Bash-silver)
-* PostgreSQL ![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-cyan)
+* Visual Studio Code ![VSCode](https://img.shields.io/badge/tool-VSCode-lightgray) 👀
+* Git ![Git](https://img.shields.io/badge/tool-Git-black) :octocat:
+* Bash ![Bash](https://img.shields.io/badge/tool-Bash-silver) ☁️
+* PostgreSQL ![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-cyan) ⚕️
 
 ### Frameworks
 * Django ![Django](https://img.shields.io/badge/framework-Django-darkblue)

@@ -1,6 +1,6 @@
 
 
- 🦸‍♂️ **Greetings, esteemed visitors Welcome to my Portfolio!**
+ ***Hi there*** 👋 :octocat:
 
 I am **Jason Christian**, a dedicated artist, accomplished photographer, and ambitious graphic designer with dreams of becoming a skilled web developer. At present, I am enthusiastically studying the craftsmanship behind building static websites.
 
@@ -12,8 +12,8 @@ I am **Jason Christian**, a dedicated artist, accomplished photographer, and amb
   </thead>
   <tbody>
     <tr>
-      <td style="width:50%; padding:1rem; border:none; vertical-align: middle; "><img src="" alt="Look Emoji" /></td>
-      <td style="width:50%; padding:1rem; border:none; vertical-align: middle; "><code>Unraveling mysteries within this repository.</code></td>
+      <td style="width:50%; padding:1rem; border:none; vertical-align: middle; "><img src="" alt=:octocat: /></td>
+     <td style="width:50%; padding:1rem; border:none; vertical-align: middle; "><code>Unraveling mysteries within this repository.</code></td>
     </tr>
   </tbody>
 </table>

@@ -1,26 +1,14 @@
-
-
- ***Hi there*** 👋 :octocat:
-
-I am **Jason Christian**, a dedicated artist, accomplished photographer, and ambitious graphic designer with dreams of becoming a skilled web developer. At present, I am enthusiastically studying the craftsmanship behind building static websites.
-
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="2" style="background-color:#F5CBA7; padding:1rem; text-align: center;" >CURRENTLY EXPLORING:</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="width:50%; padding:1rem; border:none; vertical-align: middle; "><img src="" alt=:octocat: /></td>
-     <td style="width:50%; padding:1rem; border:none; vertical-align: middle; "><code>Unraveling mysteries within this repository.</code></td>
-    </tr>
-  </tbody>
-</table>
-
-💻 | **TECHNICAL PROFICIENCIES:**
--------------------------------|
-### Languages
+👋 Hi there fellow :octocat: 
+My name is ***Jason Christian*** I'm here to lean and I'm currently learning 
+⏬⏬⏬⏬⏬   
+ ⏬    ⏬
+  ⏬  ⏬
+    ⏬    
+⏬⏬⏬⏬⏬
+ ⏬    ⏬
+  ⏬  ⏬
+    ⏬ 
+		### Languages
 * Python `![Python][PYTHON_BADGE]`
 * JavaScript `![JavaScript][JS_BADGE]`
 * HTML `![HTML][HTML_BADGE]`

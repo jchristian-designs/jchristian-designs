@@ -12,7 +12,7 @@ I am **Jason Christian**, a dedicated artist, accomplished photographer, and amb
   </thead>
   <tbody>
     <tr>
-      <td style="width:50%; padding:1rem; border:none; vertical-align: middle; "><img src="" alt="Curiosity Emoji" /></td>
+      <td style="width:50%; padding:1rem; border:none; vertical-align: middle; "><img src="" alt="Look Emoji" /></td>
       <td style="width:50%; padding:1rem; border:none; vertical-align: middle; "><code>Unraveling mysteries within this repository.</code></td>
     </tr>
   </tbody>

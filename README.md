@@ -1,7 +1,7 @@
 # Hi there I"m Jason Christian welcome to my GitHub Profile! 🎨
 ![jasonchristian](https://github.com/jchristian-designs/jchristian-designs/assets/149225130/ac3dcc9f-934f-4757-a7be-0f1a0834cdff)
 ## About Me
-I am Jason Christian, an aspiring artist venturing into the realms of graphic design and web development. Eager to learn and grow in the rappidly advanceing and expanding digital landscape. 🌆
+I am Jason Christian, an aspiring artist venturing into the realms of graphic design and web development. Eager to learn and grow in the rapidly advancing and expanding digital landscape 🌃
 
 ### Languages
 * Python ![Python](https://img.shields.io/badge/language-Python-blue)  🐍

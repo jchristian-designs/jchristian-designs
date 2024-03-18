@@ -1,6 +1,6 @@
  
 ![jasonchristian](https://github.com/jchristian-designs/jchristian-designs/assets/149225130/34cc6c3d-d87a-4368-bc85-872e797e096d) 
-(https://profylo.com/jchristian) 
+(https://profylo.com/jchristian) ![image](https://github.com/jchristian-designs/jchristian-designs/assets/149225130/b9626c67-12b2-4663-befc-519a81f314fa)
 ## About Me
 I am Jason Christian, an aspiring artist venturing into the realms of graphic design and web development. Eager to learn and grow in the rapidly advancing and expanding digital landscape 🌃
 

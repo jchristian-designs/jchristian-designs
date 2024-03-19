@@ -1,7 +1,4 @@
-<div align="right"> 
-![jasonchristian](https://github.com/jchristian-designs/jchristian-designs/assets/149225130/34cc6c3d-d87a-4368-bc85-872e797e096d) 
-![image](https://github.com/jchristian-designs/jchristian-designs/assets/149225130/b9626c67-12b2-4663-befc-519a81f314fa)
-
+![jasonchristian (1)](https://github.com/jchristian-designs/jchristian-designs/assets/149225130/36f95a33-f407-4085-83bd-1360b9b3e508)
 ## About Me
 I am Jason Christian, an aspiring artist venturing into the realms of graphic design and web development. Eager to learn and grow in the rapidly advancing and expanding digital landscape 🌃
 
@@ -45,4 +42,3 @@ Feel free to reach out at [workpays77@gmail.com](mailto:workpays77@gmail.com) to
 -----------------|
 An imaginative artist blending artistry with technology to craft captivating digital stories.  
 ![image](https://github.com/jchristian-designs/jchristian-designs/assets/149225130/b9626c67-12b2-4663-befc-519a81f314fa)
-</div>

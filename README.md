@@ -1,20 +1,21 @@
- ![jasonchristian](https://github.com/jchristian-designs/jchristian-designs/assets/149225130/34cc6c3d-d87a-4368-bc85-872e797e096d) 
+<div align="right"> 
+![jasonchristian](https://github.com/jchristian-designs/jchristian-designs/assets/149225130/34cc6c3d-d87a-4368-bc85-872e797e096d) 
 ![image](https://github.com/jchristian-designs/jchristian-designs/assets/149225130/b9626c67-12b2-4663-befc-519a81f314fa)
 
 ## About Me
 I am Jason Christian, an aspiring artist venturing into the realms of graphic design and web development. Eager to learn and grow in the rapidly advancing and expanding digital landscape 🌃
 
 ### Languages
-* Python ![Python](https://img.shields.io/badge/language-Python-blue)  🐍
-* JavaScript ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow) ☕
-* HTML ![HTML](https://img.shields.io/badge/language-HTML-orange) 🈴
-* CSS ![CSS](https://img.shields.io/badge/language-CSS-green) ➕➕
+* Python ![Python](https://img.shields.io/badge/language-Python-blue) 
+* JavaScript ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow) 
+* HTML ![HTML](https://img.shields.io/badge/language-HTML-orange) 
+* CSS ![CSS](https://img.shields.io/badge/language-CSS-green) 
 
 ### Tools
-* Visual Studio Code ![VSCode](https://img.shields.io/badge/tool-VSCode-lightgray) 👀
-* Git ![Git](https://img.shields.io/badge/tool-Git-black) :octocat:
-* Bash ![Bash](https://img.shields.io/badge/tool-Bash-silver) ☁️
-* PostgreSQL ![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-cyan) ⚕️
+* Visual Studio Code ![VSCode](https://img.shields.io/badge/tool-VSCode-lightgray) 
+* Git ![Git](https://img.shields.io/badge/tool-Git-black)
+* Bash ![Bash](https://img.shields.io/badge/tool-Bash-silver)
+* PostgreSQL ![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-cyan) 
 
 ### Frameworks
 * Django ![Django](https://img.shields.io/badge/framework-Django-darkblue)
@@ -44,3 +45,4 @@ Feel free to reach out at [workpays77@gmail.com](mailto:workpays77@gmail.com) to
 -----------------|
 An imaginative artist blending artistry with technology to craft captivating digital stories.  
 ![image](https://github.com/jchristian-designs/jchristian-designs/assets/149225130/b9626c67-12b2-4663-befc-519a81f314fa)
+</div>

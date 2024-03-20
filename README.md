@@ -3,28 +3,24 @@
 I am Jason Christian, an artist venturing into the realms of graphic design and web development. Eager to learn and grow in the rapidly advancing and expanding digital landscape 🌃
 
 ### Languages
-* Python ![Python](https://img.shields.io/badge/language-Python-blue) 
-* JavaScript ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow) 
-* HTML ![HTML](https://img.shields.io/badge/language-HTML-orange) 
-* CSS ![CSS](https://img.shields.io/badge/language-CSS-green) 
+ ![Python](https://img.shields.io/badge/language-Python-blue) 
+ ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow) 
+ ![HTML](https://img.shields.io/badge/language-HTML-orange) 
+ ![CSS](https://img.shields.io/badge/language-CSS-green) 
 
 ### Tools
-* Visual Studio Code ![VSCode](https://img.shields.io/badge/tool-VSCode-lightgray) 
-* Git ![Git](https://img.shields.io/badge/tool-Git-black)
-* Bash ![Bash](https://img.shields.io/badge/tool-Bash-silver)
-* PostgreSQL ![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-cyan) 
-
+ ![VSCode](https://img.shields.io/badge/tool-VSCode-lightgray) 
+ ![Git](https://img.shields.io/badge/tool-Git-black)
+ ![Bash](https://img.shields.io/badge/tool-Bash-silver)
+ ![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-cyan) 
+ ![Bootstrap](https://img.shields.io/badge/bootstrap-pink)
 ### Frameworks
-* Django ![Django](https://img.shields.io/badge/framework-Django-darkblue)
-* React ![React](https://img.shields.io/badge/library-React-purple)
-* Angular ![Angular](https://img.shields.io/badge/framework-Angular-red)
-* Node.js ![Node.js](https://img.shields.io/badge/runtime-Node.js-green)
+ ![Django](https://img.shields.io/badge/framework-Django-darkblue)
+ ![React](https://img.shields.io/badge/library-React-purple)
+ ![Angular](https://img.shields.io/badge/framework-Angular-red)
+ ![Node.js](https://img.shields.io/badge/runtime-Node.js-green)
 
-### Methodologies
-* Agile Development
-* Test-driven Development
-* Clean Architecture
-* Continuous Integration
+
 
  ⚡🤝 | **COLLABORATIONS AND QUESTS:**
 ----------------------------------------|

@@ -1,4 +1,4 @@
-![jasonchristian (1)](https://github.com/jchristian-designs/jchristian-designs/assets/149225130/36f95a33-f407-4085-83bd-1360b9b3e508)
+
 ## About Me
 I am Jason Christian, an artist venturing into the realms of graphic design and web development. Eager to learn and grow in the rapidly advancing and expanding digital landscape 🌃
 

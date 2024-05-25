@@ -60,6 +60,6 @@ and discuss potential projects.
 
 
 
-##"As a versatile professional in web development, photography, and graphic design, I bring a unique blend of creativity and technical expertise to every project. With a passion for music, art, across all movments, I infuse my work with a diverse range of inspirations. Let's collaborate and bring your ideas to life."
+## As a versatile professional in web development, photography, and graphic design, I bring a unique blend of creativity and technical expertise to every project. With a passion for music, art, across all movments, I infuse my work with a diverse range of inspirations. Let's collaborate and bring your ideas to life.
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
                              
